@@ -76,8 +76,8 @@ The dashboard provides insights into:
 ---
 
 ## 📁 Project Files
-- Excel Dataset & Dashboard   
-- Project Documentation  
+- student_career_outcomes_dashboard_dataset.xlsx  
+- ReadMe
 
 ---
 
