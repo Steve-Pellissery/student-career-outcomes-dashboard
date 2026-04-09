@@ -29,9 +29,9 @@ This structure demonstrates real-world data modeling and integration techniques.
 ---
 
 ## ⚙️ Key Features
-- Built a centralized dataset using **INDEX-MATCH across multiple sheets**
+- Built a centralized master dataset by integrating multiple data sources using lookup functions and **INDEX-MATCH **, simulating real-world data workflows
 - Cleaned and validated data using Excel formulas and logic checks  
-- Created pivot tables for structured analysis  
+- Created **PIVOT TABLES** for structured analysis  
 - Designed an interactive Excel dashboard with charts and KPIs  
 - Implemented **dynamic filtering (slicers)** to view all metrics by major  
   
