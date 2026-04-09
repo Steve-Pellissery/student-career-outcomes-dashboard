@@ -1,8 +1,7 @@
 # Student Career Outcomes & Engagement Dashboard
 
 ## 📌 Project Overview
-This project analyzes student career outcomes, engagement levels, and hiring trends using Excel. The goal was to simulate how a university career center can use data to track student success and improve decision-making.
-
+This project analyzes student career outcomes, engagement levels, and hiring trends using Excel, simulating how a university career center can use data to support data-driven decision-making.
 ---
 
 ## 🎯 Objectives
